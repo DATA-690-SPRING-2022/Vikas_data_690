@@ -1,4 +1,5 @@
-![](Downloads/vikas.jpg)
+![vikas](https://user-images.githubusercontent.com/98720087/152598779-16845570-1c3b-42ae-bbf1-af05f7d27f7f.jpg)
+
 
 # Who Am I?
 
