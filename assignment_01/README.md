@@ -52,7 +52,7 @@ Projects:
 * Received certification for presenting technical paper presentation.
 
 # Social Activities
-* Participated in various blood donations organs
+* Participated in various blood donations camps
 
 * Supported charities in covid outbreak.
 
