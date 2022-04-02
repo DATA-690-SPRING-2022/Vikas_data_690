@@ -1,0 +1,311 @@
+,Year,value,indicator,Country Code,Country Name,Region,Income Group,Lending Type
+0,2016,60.9075813293,SE.PRM.CUAT.MA.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+1,2017,61.7963485718,SE.PRM.CUAT.MA.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+2,2018,62.4882888794,SE.PRM.CUAT.MA.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+3,2019,64.9122085571,SE.PRM.CUAT.MA.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+4,2020,66.9104690552,SE.PRM.CUAT.MA.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+5,2017,37.286239624,SE.PRM.CUAT.MA.ZS,BTN,Bhutan,South Asia,Lower middle income,IDA
+6,2016,62.5163002014,SE.PRM.CUAT.MA.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+7,2017,60.4323997498,SE.PRM.CUAT.MA.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+8,2018,47.2339706421,SE.PRM.CUAT.MA.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+9,2019,55.1207389832,SE.PRM.CUAT.MA.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+10,2016,98.8551330566,SE.PRM.CUAT.MA.ZS,USA,United States,North America,High income,Not classified
+11,2018,99.0813293457,SE.PRM.CUAT.MA.ZS,USA,United States,North America,High income,Not classified
+12,2020,99.020942688,SE.PRM.CUAT.MA.ZS,USA,United States,North America,High income,Not classified
+13,2016,35383028.0,SP.POP.TOTL,AFG,Afghanistan,South Asia,Low income,IDA
+14,2017,36296111.0,SP.POP.TOTL,AFG,Afghanistan,South Asia,Low income,IDA
+15,2018,37171922.0,SP.POP.TOTL,AFG,Afghanistan,South Asia,Low income,IDA
+16,2019,38041757.0,SP.POP.TOTL,AFG,Afghanistan,South Asia,Low income,IDA
+17,2020,38928341.0,SP.POP.TOTL,AFG,Afghanistan,South Asia,Low income,IDA
+18,2016,157977151.0,SP.POP.TOTL,BGD,Bangladesh,South Asia,Lower middle income,IDA
+19,2017,159685421.0,SP.POP.TOTL,BGD,Bangladesh,South Asia,Lower middle income,IDA
+20,2018,161376713.0,SP.POP.TOTL,BGD,Bangladesh,South Asia,Lower middle income,IDA
+21,2019,163046173.0,SP.POP.TOTL,BGD,Bangladesh,South Asia,Lower middle income,IDA
+22,2020,164689383.0,SP.POP.TOTL,BGD,Bangladesh,South Asia,Lower middle income,IDA
+23,2016,64554.0,SP.POP.TOTL,BMU,Bermuda,North America,High income,Not classified
+24,2017,63873.0,SP.POP.TOTL,BMU,Bermuda,North America,High income,Not classified
+25,2018,63919.0,SP.POP.TOTL,BMU,Bermuda,North America,High income,Not classified
+26,2019,63913.0,SP.POP.TOTL,BMU,Bermuda,North America,High income,Not classified
+27,2020,63903.0,SP.POP.TOTL,BMU,Bermuda,North America,High income,Not classified
+28,2016,736706.0,SP.POP.TOTL,BTN,Bhutan,South Asia,Lower middle income,IDA
+29,2017,745563.0,SP.POP.TOTL,BTN,Bhutan,South Asia,Lower middle income,IDA
+30,2018,754396.0,SP.POP.TOTL,BTN,Bhutan,South Asia,Lower middle income,IDA
+31,2019,763094.0,SP.POP.TOTL,BTN,Bhutan,South Asia,Lower middle income,IDA
+32,2020,771612.0,SP.POP.TOTL,BTN,Bhutan,South Asia,Lower middle income,IDA
+33,2016,36109487.0,SP.POP.TOTL,CAN,Canada,North America,High income,Not classified
+34,2017,36545295.0,SP.POP.TOTL,CAN,Canada,North America,High income,Not classified
+35,2018,37065178.0,SP.POP.TOTL,CAN,Canada,North America,High income,Not classified
+36,2019,37593384.0,SP.POP.TOTL,CAN,Canada,North America,High income,Not classified
+37,2020,38005238.0,SP.POP.TOTL,CAN,Canada,North America,High income,Not classified
+38,2016,1324517250.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+39,2017,1338676779.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+40,2018,1352642283.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+41,2019,1366417756.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+42,2020,1380004385.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+43,2016,475505.0,SP.POP.TOTL,MDV,Maldives,South Asia,Upper middle income,IDA
+44,2017,496398.0,SP.POP.TOTL,MDV,Maldives,South Asia,Upper middle income,IDA
+45,2018,515704.0,SP.POP.TOTL,MDV,Maldives,South Asia,Upper middle income,IDA
+46,2019,530957.0,SP.POP.TOTL,MDV,Maldives,South Asia,Upper middle income,IDA
+47,2020,540542.0,SP.POP.TOTL,MDV,Maldives,South Asia,Upper middle income,IDA
+48,2016,27263430.0,SP.POP.TOTL,NPL,Nepal,South Asia,Lower middle income,IDA
+49,2017,27632682.0,SP.POP.TOTL,NPL,Nepal,South Asia,Lower middle income,IDA
+50,2018,28095712.0,SP.POP.TOTL,NPL,Nepal,South Asia,Lower middle income,IDA
+51,2019,28608715.0,SP.POP.TOTL,NPL,Nepal,South Asia,Lower middle income,IDA
+52,2020,29136808.0,SP.POP.TOTL,NPL,Nepal,South Asia,Lower middle income,IDA
+53,2016,203631356.0,SP.POP.TOTL,PAK,Pakistan,South Asia,Lower middle income,Blend
+54,2017,207906210.0,SP.POP.TOTL,PAK,Pakistan,South Asia,Lower middle income,Blend
+55,2018,212228288.0,SP.POP.TOTL,PAK,Pakistan,South Asia,Lower middle income,Blend
+56,2019,216565317.0,SP.POP.TOTL,PAK,Pakistan,South Asia,Lower middle income,Blend
+57,2020,220892331.0,SP.POP.TOTL,PAK,Pakistan,South Asia,Lower middle income,Blend
+58,2016,21203000.0,SP.POP.TOTL,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+59,2017,21444000.0,SP.POP.TOTL,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+60,2018,21670000.0,SP.POP.TOTL,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+61,2019,21803000.0,SP.POP.TOTL,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+62,2020,21919000.0,SP.POP.TOTL,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+63,2016,323071755.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+64,2017,325122128.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+65,2018,326838199.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+66,2019,328329953.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+67,2020,329484123.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+68,2016,2473.0,IC.WEF.LLCD.MA,AFG,Afghanistan,South Asia,Low income,IDA
+69,2017,2677.0,IC.WEF.LLCD.MA,AFG,Afghanistan,South Asia,Low income,IDA
+70,2018,5057.0,IC.WEF.LLCD.MA,AFG,Afghanistan,South Asia,Low income,IDA
+71,2016,123.0,IC.WEF.LLCD.MA,BTN,Bhutan,South Asia,Lower middle income,IDA
+72,2017,168.0,IC.WEF.LLCD.MA,BTN,Bhutan,South Asia,Lower middle income,IDA
+73,2018,127.0,IC.WEF.LLCD.MA,BTN,Bhutan,South Asia,Lower middle income,IDA
+74,2016,4366.0,IC.WEF.LLCD.MA,NPL,Nepal,South Asia,Lower middle income,IDA
+75,2017,4850.0,IC.WEF.LLCD.MA,NPL,Nepal,South Asia,Lower middle income,IDA
+76,2018,6086.0,IC.WEF.LLCD.MA,NPL,Nepal,South Asia,Lower middle income,IDA
+77,2016,13839.0,IC.WEF.LLCD.MA,PAK,Pakistan,South Asia,Lower middle income,Blend
+78,2017,18613.0,IC.WEF.LLCD.MA,PAK,Pakistan,South Asia,Lower middle income,Blend
+79,2018,23572.0,IC.WEF.LLCD.MA,PAK,Pakistan,South Asia,Lower middle income,Blend
+80,2016,32.0,IC.WEF.LLCD.FE,AFG,Afghanistan,South Asia,Low income,IDA
+81,2017,34.0,IC.WEF.LLCD.FE,AFG,Afghanistan,South Asia,Low income,IDA
+82,2018,93.0,IC.WEF.LLCD.FE,AFG,Afghanistan,South Asia,Low income,IDA
+83,2016,51.0,IC.WEF.LLCD.FE,BTN,Bhutan,South Asia,Lower middle income,IDA
+84,2017,71.0,IC.WEF.LLCD.FE,BTN,Bhutan,South Asia,Lower middle income,IDA
+85,2018,45.0,IC.WEF.LLCD.FE,BTN,Bhutan,South Asia,Lower middle income,IDA
+86,2016,749.0,IC.WEF.LLCD.FE,NPL,Nepal,South Asia,Lower middle income,IDA
+87,2017,852.0,IC.WEF.LLCD.FE,NPL,Nepal,South Asia,Lower middle income,IDA
+88,2018,963.0,IC.WEF.LLCD.FE,NPL,Nepal,South Asia,Lower middle income,IDA
+89,2016,2705.0,IC.WEF.LLCD.FE,PAK,Pakistan,South Asia,Lower middle income,Blend
+90,2017,3440.0,IC.WEF.LLCD.FE,PAK,Pakistan,South Asia,Lower middle income,Blend
+91,2018,3950.0,IC.WEF.LLCD.FE,PAK,Pakistan,South Asia,Lower middle income,Blend
+92,2016,6.1,SI.DST.50MD,BGD,Bangladesh,South Asia,Lower middle income,IDA
+93,2017,13.8,SI.DST.50MD,BTN,Bhutan,South Asia,Lower middle income,IDA
+94,2016,12.7,SI.DST.50MD,CAN,Canada,North America,High income,Not classified
+95,2017,13.2,SI.DST.50MD,CAN,Canada,North America,High income,Not classified
+96,2016,9.7,SI.DST.50MD,MDV,Maldives,South Asia,Upper middle income,IDA
+97,2018,4.4,SI.DST.50MD,PAK,Pakistan,South Asia,Lower middle income,Blend
+98,2016,9.7,SI.DST.50MD,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+99,2016,18.0,SI.DST.50MD,USA,United States,North America,High income,Not classified
+100,2017,18.2,SI.DST.50MD,USA,United States,North America,High income,Not classified
+101,2018,18.2,SI.DST.50MD,USA,United States,North America,High income,Not classified
+102,2016,51.6476783752,SE.PRM.CUAT.FE.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+103,2017,53.1116218567,SE.PRM.CUAT.FE.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+104,2018,54.4736213684,SE.PRM.CUAT.FE.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+105,2019,57.316860199,SE.PRM.CUAT.FE.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+106,2020,58.943359375,SE.PRM.CUAT.FE.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+107,2017,26.7455806732,SE.PRM.CUAT.FE.ZS,BTN,Bhutan,South Asia,Lower middle income,IDA
+108,2016,36.5361213684,SE.PRM.CUAT.FE.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+109,2017,37.6778411865,SE.PRM.CUAT.FE.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+110,2018,30.5411396027,SE.PRM.CUAT.FE.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+111,2019,42.4178695679,SE.PRM.CUAT.FE.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+112,2016,98.8974685669,SE.PRM.CUAT.FE.ZS,USA,United States,North America,High income,Not classified
+113,2018,98.9852600098,SE.PRM.CUAT.FE.ZS,USA,United States,North America,High income,Not classified
+114,2020,99.0882110596,SE.PRM.CUAT.FE.ZS,USA,United States,North America,High income,Not classified
+115,2016,18186994.0,SP.POP.TOTL.MA.IN,AFG,Afghanistan,South Asia,Low income,IDA
+116,2017,18651985.0,SP.POP.TOTL.MA.IN,AFG,Afghanistan,South Asia,Low income,IDA
+117,2018,19093043.0,SP.POP.TOTL.MA.IN,AFG,Afghanistan,South Asia,Low income,IDA
+118,2019,19529727.0,SP.POP.TOTL.MA.IN,AFG,Afghanistan,South Asia,Low income,IDA
+119,2020,19976265.0,SP.POP.TOTL.MA.IN,AFG,Afghanistan,South Asia,Low income,IDA
+120,2016,80048910.0,SP.POP.TOTL.MA.IN,BGD,Bangladesh,South Asia,Lower middle income,IDA
+121,2017,80869068.0,SP.POP.TOTL.MA.IN,BGD,Bangladesh,South Asia,Lower middle income,IDA
+122,2018,81677117.0,SP.POP.TOTL.MA.IN,BGD,Bangladesh,South Asia,Lower middle income,IDA
+123,2019,82473791.0,SP.POP.TOTL.MA.IN,BGD,Bangladesh,South Asia,Lower middle income,IDA
+124,2020,83259108.0,SP.POP.TOTL.MA.IN,BGD,Bangladesh,South Asia,Lower middle income,IDA
+125,2016,389210.0,SP.POP.TOTL.MA.IN,BTN,Bhutan,South Asia,Lower middle income,IDA
+126,2017,394499.0,SP.POP.TOTL.MA.IN,BTN,Bhutan,South Asia,Lower middle income,IDA
+127,2018,399810.0,SP.POP.TOTL.MA.IN,BTN,Bhutan,South Asia,Lower middle income,IDA
+128,2019,405032.0,SP.POP.TOTL.MA.IN,BTN,Bhutan,South Asia,Lower middle income,IDA
+129,2020,410087.0,SP.POP.TOTL.MA.IN,BTN,Bhutan,South Asia,Lower middle income,IDA
+130,2016,17906490.0,SP.POP.TOTL.MA.IN,CAN,Canada,North America,High income,Not classified
+131,2017,18125530.0,SP.POP.TOTL.MA.IN,CAN,Canada,North America,High income,Not classified
+132,2018,18387468.0,SP.POP.TOTL.MA.IN,CAN,Canada,North America,High income,Not classified
+133,2019,18654019.0,SP.POP.TOTL.MA.IN,CAN,Canada,North America,High income,Not classified
+134,2020,18862750.0,SP.POP.TOTL.MA.IN,CAN,Canada,North America,High income,Not classified
+135,2016,688604687.0,SP.POP.TOTL.MA.IN,IND,India,South Asia,Lower middle income,IBRD
+136,2017,695880522.0,SP.POP.TOTL.MA.IN,IND,India,South Asia,Lower middle income,IBRD
+137,2018,703055580.0,SP.POP.TOTL.MA.IN,IND,India,South Asia,Lower middle income,IBRD
+138,2019,710129572.0,SP.POP.TOTL.MA.IN,IND,India,South Asia,Lower middle income,IBRD
+139,2020,717100970.0,SP.POP.TOTL.MA.IN,IND,India,South Asia,Lower middle income,IBRD
+140,2016,288938.0,SP.POP.TOTL.MA.IN,MDV,Maldives,South Asia,Upper middle income,IDA
+141,2017,306973.0,SP.POP.TOTL.MA.IN,MDV,Maldives,South Asia,Upper middle income,IDA
+142,2018,323527.0,SP.POP.TOTL.MA.IN,MDV,Maldives,South Asia,Upper middle income,IDA
+143,2019,336070.0,SP.POP.TOTL.MA.IN,MDV,Maldives,South Asia,Upper middle income,IDA
+144,2020,342928.0,SP.POP.TOTL.MA.IN,MDV,Maldives,South Asia,Upper middle income,IDA
+145,2016,12423456.0,SP.POP.TOTL.MA.IN,NPL,Nepal,South Asia,Lower middle income,IDA
+146,2017,12554958.0,SP.POP.TOTL.MA.IN,NPL,Nepal,South Asia,Lower middle income,IDA
+147,2018,12773619.0,SP.POP.TOTL.MA.IN,NPL,Nepal,South Asia,Lower middle income,IDA
+148,2019,13046953.0,SP.POP.TOTL.MA.IN,NPL,Nepal,South Asia,Lower middle income,IDA
+149,2020,13348435.0,SP.POP.TOTL.MA.IN,NPL,Nepal,South Asia,Lower middle income,IDA
+150,2016,104797415.0,SP.POP.TOTL.MA.IN,PAK,Pakistan,South Asia,Lower middle income,Blend
+151,2017,106993868.0,SP.POP.TOTL.MA.IN,PAK,Pakistan,South Asia,Lower middle income,Blend
+152,2018,109216763.0,SP.POP.TOTL.MA.IN,PAK,Pakistan,South Asia,Lower middle income,Blend
+153,2019,111447581.0,SP.POP.TOTL.MA.IN,PAK,Pakistan,South Asia,Lower middle income,Blend
+154,2020,113672007.0,SP.POP.TOTL.MA.IN,PAK,Pakistan,South Asia,Lower middle income,Blend
+155,2016,10205812.0,SP.POP.TOTL.MA.IN,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+156,2017,10310132.0,SP.POP.TOTL.MA.IN,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+157,2018,10408791.0,SP.POP.TOTL.MA.IN,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+158,2019,10463418.0,SP.POP.TOTL.MA.IN,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+159,2020,10509851.0,SP.POP.TOTL.MA.IN,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+160,2016,159825817.0,SP.POP.TOTL.MA.IN,USA,United States,North America,High income,Not classified
+161,2017,160859432.0,SP.POP.TOTL.MA.IN,USA,United States,North America,High income,Not classified
+162,2018,161719493.0,SP.POP.TOTL.MA.IN,USA,United States,North America,High income,Not classified
+163,2019,162462628.0,SP.POP.TOTL.MA.IN,USA,United States,North America,High income,Not classified
+164,2020,163034623.0,SP.POP.TOTL.MA.IN,USA,United States,North America,High income,Not classified
+165,2016,14.347319603,SE.SEC.CUAT.PO.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+166,2017,14.9236602783,SE.SEC.CUAT.PO.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+167,2018,15.5677995682,SE.SEC.CUAT.PO.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+168,2019,16.2052707672,SE.SEC.CUAT.PO.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+169,2020,22.3817501068,SE.SEC.CUAT.PO.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+170,2016,54.7408485413,SE.SEC.CUAT.PO.ZS,BMU,Bermuda,North America,High income,Not classified
+171,2017,11.0007400513,SE.SEC.CUAT.PO.ZS,BTN,Bhutan,South Asia,Lower middle income,IDA
+172,2016,60.4142990112,SE.SEC.CUAT.PO.ZS,CAN,Canada,North America,High income,Not classified
+173,2016,8.7533102036,SE.SEC.CUAT.PO.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+174,2017,8.6503295898,SE.SEC.CUAT.PO.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+175,2018,3.1743299961,SE.SEC.CUAT.PO.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+176,2019,4.1466298103,SE.SEC.CUAT.PO.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+177,2018,45.1679115295,SE.SEC.CUAT.PO.ZS,USA,United States,North America,High income,Not classified
+178,2016,75.618850708,SE.ADT.LITR.MA.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+179,2017,75.7023620605,SE.ADT.LITR.MA.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+180,2018,76.6692581177,SE.ADT.LITR.MA.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+181,2019,77.4414901733,SE.ADT.LITR.MA.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+182,2020,77.8167114258,SE.ADT.LITR.MA.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+183,2017,75.0198516846,SE.ADT.LITR.MA.ZS,BTN,Bhutan,South Asia,Lower middle income,IDA
+184,2018,82.3667068481,SE.ADT.LITR.MA.ZS,IND,India,South Asia,Lower middle income,IBRD
+185,2016,97.2989273071,SE.ADT.LITR.MA.ZS,MDV,Maldives,South Asia,Upper middle income,IDA
+186,2018,78.5913391113,SE.ADT.LITR.MA.ZS,NPL,Nepal,South Asia,Lower middle income,IDA
+187,2017,71.1159973145,SE.ADT.LITR.MA.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+188,2018,69.2765808105,SE.ADT.LITR.MA.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+189,2019,69.2874603271,SE.ADT.LITR.MA.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+190,2016,93.4558868408,SE.ADT.LITR.MA.ZS,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+191,2017,92.9805526733,SE.ADT.LITR.MA.ZS,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+192,2018,92.7729263306,SE.ADT.LITR.MA.ZS,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+193,2019,93.0313568115,SE.ADT.LITR.MA.ZS,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+194,2016,69.8972091675,SE.ADT.LITR.FE.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+195,2017,70.0857009888,SE.ADT.LITR.FE.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+196,2018,71.1819381714,SE.ADT.LITR.FE.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+197,2019,71.948387146,SE.ADT.LITR.FE.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+198,2020,72.0047836304,SE.ADT.LITR.FE.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+199,2017,57.0836181641,SE.ADT.LITR.FE.ZS,BTN,Bhutan,South Asia,Lower middle income,IDA
+200,2018,65.7908096313,SE.ADT.LITR.FE.ZS,IND,India,South Asia,Lower middle income,IBRD
+201,2016,98.1147079468,SE.ADT.LITR.FE.ZS,MDV,Maldives,South Asia,Upper middle income,IDA
+202,2018,59.7244300842,SE.ADT.LITR.FE.ZS,NPL,Nepal,South Asia,Lower middle income,IDA
+203,2017,46.4676704407,SE.ADT.LITR.FE.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+204,2018,45.398399353,SE.ADT.LITR.FE.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+205,2019,46.4900398254,SE.ADT.LITR.FE.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+206,2016,91.4861068726,SE.ADT.LITR.FE.ZS,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+207,2017,90.970741272,SE.ADT.LITR.FE.ZS,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+208,2018,90.7956008911,SE.ADT.LITR.FE.ZS,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+209,2019,91.580871582,SE.ADT.LITR.FE.ZS,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+210,2016,17196034.0,SP.POP.TOTL.FE.IN,AFG,Afghanistan,South Asia,Low income,IDA
+211,2017,17644126.0,SP.POP.TOTL.FE.IN,AFG,Afghanistan,South Asia,Low income,IDA
+212,2018,18078879.0,SP.POP.TOTL.FE.IN,AFG,Afghanistan,South Asia,Low income,IDA
+213,2019,18512030.0,SP.POP.TOTL.FE.IN,AFG,Afghanistan,South Asia,Low income,IDA
+214,2020,18952076.0,SP.POP.TOTL.FE.IN,AFG,Afghanistan,South Asia,Low income,IDA
+215,2016,77928241.0,SP.POP.TOTL.FE.IN,BGD,Bangladesh,South Asia,Lower middle income,IDA
+216,2017,78816353.0,SP.POP.TOTL.FE.IN,BGD,Bangladesh,South Asia,Lower middle income,IDA
+217,2018,79699596.0,SP.POP.TOTL.FE.IN,BGD,Bangladesh,South Asia,Lower middle income,IDA
+218,2019,80572382.0,SP.POP.TOTL.FE.IN,BGD,Bangladesh,South Asia,Lower middle income,IDA
+219,2020,81430275.0,SP.POP.TOTL.FE.IN,BGD,Bangladesh,South Asia,Lower middle income,IDA
+220,2016,347496.0,SP.POP.TOTL.FE.IN,BTN,Bhutan,South Asia,Lower middle income,IDA
+221,2017,351064.0,SP.POP.TOTL.FE.IN,BTN,Bhutan,South Asia,Lower middle income,IDA
+222,2018,354586.0,SP.POP.TOTL.FE.IN,BTN,Bhutan,South Asia,Lower middle income,IDA
+223,2019,358062.0,SP.POP.TOTL.FE.IN,BTN,Bhutan,South Asia,Lower middle income,IDA
+224,2020,361525.0,SP.POP.TOTL.FE.IN,BTN,Bhutan,South Asia,Lower middle income,IDA
+225,2016,18202997.0,SP.POP.TOTL.FE.IN,CAN,Canada,North America,High income,Not classified
+226,2017,18419765.0,SP.POP.TOTL.FE.IN,CAN,Canada,North America,High income,Not classified
+227,2018,18677710.0,SP.POP.TOTL.FE.IN,CAN,Canada,North America,High income,Not classified
+228,2019,18939365.0,SP.POP.TOTL.FE.IN,CAN,Canada,North America,High income,Not classified
+229,2020,19142488.0,SP.POP.TOTL.FE.IN,CAN,Canada,North America,High income,Not classified
+230,2016,635912563.0,SP.POP.TOTL.FE.IN,IND,India,South Asia,Lower middle income,IBRD
+231,2017,642796257.0,SP.POP.TOTL.FE.IN,IND,India,South Asia,Lower middle income,IBRD
+232,2018,649586703.0,SP.POP.TOTL.FE.IN,IND,India,South Asia,Lower middle income,IBRD
+233,2019,656288184.0,SP.POP.TOTL.FE.IN,IND,India,South Asia,Lower middle income,IBRD
+234,2020,662903415.0,SP.POP.TOTL.FE.IN,IND,India,South Asia,Lower middle income,IBRD
+235,2016,186567.0,SP.POP.TOTL.FE.IN,MDV,Maldives,South Asia,Upper middle income,IDA
+236,2017,189425.0,SP.POP.TOTL.FE.IN,MDV,Maldives,South Asia,Upper middle income,IDA
+237,2018,192177.0,SP.POP.TOTL.FE.IN,MDV,Maldives,South Asia,Upper middle income,IDA
+238,2019,194887.0,SP.POP.TOTL.FE.IN,MDV,Maldives,South Asia,Upper middle income,IDA
+239,2020,197614.0,SP.POP.TOTL.FE.IN,MDV,Maldives,South Asia,Upper middle income,IDA
+240,2016,14839974.0,SP.POP.TOTL.FE.IN,NPL,Nepal,South Asia,Lower middle income,IDA
+241,2017,15077724.0,SP.POP.TOTL.FE.IN,NPL,Nepal,South Asia,Lower middle income,IDA
+242,2018,15322093.0,SP.POP.TOTL.FE.IN,NPL,Nepal,South Asia,Lower middle income,IDA
+243,2019,15561762.0,SP.POP.TOTL.FE.IN,NPL,Nepal,South Asia,Lower middle income,IDA
+244,2020,15788373.0,SP.POP.TOTL.FE.IN,NPL,Nepal,South Asia,Lower middle income,IDA
+245,2016,98833941.0,SP.POP.TOTL.FE.IN,PAK,Pakistan,South Asia,Lower middle income,Blend
+246,2017,100912342.0,SP.POP.TOTL.FE.IN,PAK,Pakistan,South Asia,Lower middle income,Blend
+247,2018,103011525.0,SP.POP.TOTL.FE.IN,PAK,Pakistan,South Asia,Lower middle income,Blend
+248,2019,105117736.0,SP.POP.TOTL.FE.IN,PAK,Pakistan,South Asia,Lower middle income,Blend
+249,2020,107220324.0,SP.POP.TOTL.FE.IN,PAK,Pakistan,South Asia,Lower middle income,Blend
+250,2016,10997188.0,SP.POP.TOTL.FE.IN,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+251,2017,11133868.0,SP.POP.TOTL.FE.IN,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+252,2018,11261209.0,SP.POP.TOTL.FE.IN,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+253,2019,11339582.0,SP.POP.TOTL.FE.IN,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+254,2020,11409149.0,SP.POP.TOTL.FE.IN,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+255,2016,163245938.0,SP.POP.TOTL.FE.IN,USA,United States,North America,High income,Not classified
+256,2017,164262696.0,SP.POP.TOTL.FE.IN,USA,United States,North America,High income,Not classified
+257,2018,165118706.0,SP.POP.TOTL.FE.IN,USA,United States,North America,High income,Not classified
+258,2019,165867325.0,SP.POP.TOTL.FE.IN,USA,United States,North America,High income,Not classified
+259,2020,166449500.0,SP.POP.TOTL.FE.IN,USA,United States,North America,High income,Not classified
+260,2016,87.9417880743,SP.POP.DPND,AFG,Afghanistan,South Asia,Low income,IDA
+261,2017,86.0007546393,SP.POP.DPND,AFG,Afghanistan,South Asia,Low income,IDA
+262,2018,84.0776554602,SP.POP.DPND,AFG,Afghanistan,South Asia,Low income,IDA
+263,2019,82.1097716002,SP.POP.DPND,AFG,Afghanistan,South Asia,Low income,IDA
+264,2020,80.0882594984,SP.POP.DPND,AFG,Afghanistan,South Asia,Low income,IDA
+265,2016,51.2600187752,SP.POP.DPND,BGD,Bangladesh,South Asia,Lower middle income,IDA
+266,2017,50.0916977633,SP.POP.DPND,BGD,Bangladesh,South Asia,Lower middle income,IDA
+267,2018,48.952298416,SP.POP.DPND,BGD,Bangladesh,South Asia,Lower middle income,IDA
+268,2019,47.9174337711,SP.POP.DPND,BGD,Bangladesh,South Asia,Lower middle income,IDA
+269,2020,47.0189228498,SP.POP.DPND,BGD,Bangladesh,South Asia,Lower middle income,IDA
+270,2016,48.3353434719,SP.POP.DPND,BTN,Bhutan,South Asia,Lower middle income,IDA
+271,2017,47.371552479,SP.POP.DPND,BTN,Bhutan,South Asia,Lower middle income,IDA
+272,2018,46.5724094651,SP.POP.DPND,BTN,Bhutan,South Asia,Lower middle income,IDA
+273,2019,45.8432158768,SP.POP.DPND,BTN,Bhutan,South Asia,Lower middle income,IDA
+274,2020,45.1361523718,SP.POP.DPND,BTN,Bhutan,South Asia,Lower middle income,IDA
+275,2016,47.8263144314,SP.POP.DPND,CAN,Canada,North America,High income,Not classified
+276,2017,48.6160760671,SP.POP.DPND,CAN,Canada,North America,High income,Not classified
+277,2018,49.4818772898,SP.POP.DPND,CAN,Canada,North America,High income,Not classified
+278,2019,50.3619160311,SP.POP.DPND,CAN,Canada,North America,High income,Not classified
+279,2020,51.2392868697,SP.POP.DPND,CAN,Canada,North America,High income,Not classified
+280,2016,50.888137026,SP.POP.DPND,IND,India,South Asia,Lower middle income,IBRD
+281,2017,50.2896371909,SP.POP.DPND,IND,India,South Asia,Lower middle income,IBRD
+282,2018,49.7751668865,SP.POP.DPND,IND,India,South Asia,Lower middle income,IBRD
+283,2019,49.24524181,SP.POP.DPND,IND,India,South Asia,Lower middle income,IBRD
+284,2020,48.6646203054,SP.POP.DPND,IND,India,South Asia,Lower middle income,IBRD
+285,2016,32.6343271717,SP.POP.DPND,MDV,Maldives,South Asia,Upper middle income,IDA
+286,2017,31.8797455911,SP.POP.DPND,MDV,Maldives,South Asia,Upper middle income,IDA
+287,2018,31.3219693304,SP.POP.DPND,MDV,Maldives,South Asia,Upper middle income,IDA
+288,2019,30.8056159817,SP.POP.DPND,MDV,Maldives,South Asia,Upper middle income,IDA
+289,2020,30.1968095228,SP.POP.DPND,MDV,Maldives,South Asia,Upper middle income,IDA
+290,2016,61.0904058448,SP.POP.DPND,NPL,Nepal,South Asia,Lower middle income,IDA
+291,2017,58.7331737194,SP.POP.DPND,NPL,Nepal,South Asia,Lower middle income,IDA
+292,2018,56.5972914678,SP.POP.DPND,NPL,Nepal,South Asia,Lower middle income,IDA
+293,2019,54.68607966,SP.POP.DPND,NPL,Nepal,South Asia,Lower middle income,IDA
+294,2020,52.9937686278,SP.POP.DPND,NPL,Nepal,South Asia,Lower middle income,IDA
+295,2016,66.7048033873,SP.POP.DPND,PAK,Pakistan,South Asia,Lower middle income,Blend
+296,2017,66.0921453456,SP.POP.DPND,PAK,Pakistan,South Asia,Lower middle income,Blend
+297,2018,65.5152022568,SP.POP.DPND,PAK,Pakistan,South Asia,Lower middle income,Blend
+298,2019,64.9533125645,SP.POP.DPND,PAK,Pakistan,South Asia,Lower middle income,Blend
+299,2020,64.387741348,SP.POP.DPND,PAK,Pakistan,South Asia,Lower middle income,Blend
+300,2016,52.3536311512,SP.POP.DPND,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+301,2017,52.7433000117,SP.POP.DPND,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+302,2018,53.0695531238,SP.POP.DPND,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+303,2019,53.3630995004,SP.POP.DPND,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+304,2020,53.6516254343,SP.POP.DPND,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+305,2016,51.6461673051,SP.POP.DPND,USA,United States,North America,High income,Not classified
+306,2017,52.1558060197,SP.POP.DPND,USA,United States,North America,High income,Not classified
+307,2018,52.7106771134,SP.POP.DPND,USA,United States,North America,High income,Not classified
+308,2019,53.277666171,SP.POP.DPND,USA,United States,North America,High income,Not classified
+309,2020,53.8524813366,SP.POP.DPND,USA,United States,North America,High income,Not classified
